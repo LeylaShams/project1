@@ -35,7 +35,7 @@ Postman
 # Features
 * All tables  in at 3rd Normal Form.
 
-* The back-end system  use JDBC to connect to the database
+* The back-end system  uses JDBC to connect to the database
 
 * The application deployed onto a Tomcat Server.
 
