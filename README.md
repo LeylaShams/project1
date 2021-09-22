@@ -2,4 +2,5 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 Technologies: Servlets, JDBC, Hibernate, AJAX
+**************************************************************************
 Languages: Java- Javascript - JQuery -HTML- CSS 
