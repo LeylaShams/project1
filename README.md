@@ -9,10 +9,10 @@ Design:
 DAO / Front-Controller Design Pattern
 
 Backend:
-JAVA
-Servlets
-Hibernate
-Javascript
+JAVA,
+Servlets,
+Hibernate,
+Javascript,
 AJAX
 
 Web-Container:
@@ -22,10 +22,10 @@ Database:
 MYSQL
 
 Frontend:
-HTML
-CSS
-jQuery
-Bootstrap
+HTML,
+CSS,
+jQuery,
+Bootstrap,
 
 Testing:
 Postman
